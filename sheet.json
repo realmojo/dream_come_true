@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dreams-come-true-380107",
+  "private_key_id": "818d61537ca7f48e7725518e3d316c688d515b52",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCOe+vIfux+OF7K\nZ0KKfKbMVndBemRRzneFG0x+/yjYT//jtBwFJrRpRwcx9cb2h0PBpkO6prMeDONU\nMUtsueq3t4O/iPgN2BCfD590MtboA3qiN0yGKjUk+WlZxrjt0eVZa0RGuE6gOwvi\n/u7qqTi2pp+nIRK8qVaWBXzI63wlT2WMSk2cK6JN7KVkXH3zyYKt/jz/cqF50fiE\nHJZ25CkaC5dkuauKSE5vqL5BJK8dxW1urelC9C/hRiog9zJroHLoRjoLaoJtjPNJ\nO5eauR0yIrNTFOCxA/Ky2lZTOLKDUpOnbQNIkUfBp6VSaJ9Wat9I/GEgPK8O5GCN\n0cc9dQtVAgMBAAECggEAA1stTB01PxBFdB+nirFYXak071Caau57YTuQSAOE0XrD\nUvhyNB4O+aKn+DsxhkTcYzc732C/olffLCOdgubQ/dlvdVEDUSwp0N1VpHwk4Y7H\na8/BC5eUUq+I4qNfX5BMn/6tu1UddDSMpjp0CghilhoDQIGmbW9qfM30Fc8TyKGQ\ncDNPUAc7aF0k+/Y81LvH1Qu0oUPD9BdcJsAiKIpifupbWuUBgasS/u6j46QhWG3K\nYmM8Z5Rhc6+DcbxaStQ7kNJt0dIqs84MACm0T+owY3Cxlt6Zl7KfYBB6020DTG1y\nvOX78FXVkrQJMiviDkq+qu3KNlG6Pg1CKwQPiJyHxwKBgQDCVklRr/nFFMUeZ3dQ\n8LlN7QFCX3mRM4kwal5MKgR524gzwj/6/G/qABfYfpl/F6QJ6Ky6B5LBlk2B9CZR\nEj5P2uO3qihmjm6UI/A8GyL4Pc4/u3EXjwtgE46pH/Hnd/jSQemysQV1oq/S9Kf4\nMfo8Tiw4GB0dGjTI3kmgmuSa/wKBgQC7sbFDzlIHvn5zQJ5mA6zLIQRlWEh2ZzNM\nhLFrgTzHSk/eehnWL7honSGvTX5v5Ndfz/a8+AVN2C+TnrIQO9xKxwFSqSqsJyp6\nCuR+b8x88RlcCIJTjkrII7S8H+JK+sah0FLmvG6y3xH5XpXQKFZGh+mxLld/BVXs\nDORyV+19qwKBgFM33+27DZn3avG6HL3sV22nMALcH5KuHvE8m2TCGWiVOZ3wcLVp\npALwR0XN8K0b0oLrwAtpcs6zLj2X71CIH2bStPDRTLueAnwtZ5JVjIQA83EXMzaD\naruZpF2H8G7OUR64WvrKEyxsnh4X5lXCEQYB862RpeXwcuoRRjYgHgTBAoGAeXFL\npPfGE8SpxKC23ILcNsIyOfCZUiMMCiKBOXHxhXELpIOUXAWcZ/Pja63UdUm4IQJK\nP5Kqu+d5QSaZR++zZZ7FuFpEhgcBcN3DYhusT9sf8XCAAtg6gqy3sFFg9eq0wtYs\nDac2aP30f0k33et7hz9Bcabubf1hzs24slM6EukCgYBQgeHMGMVnac6FLaZJ3Vnj\n87Fh/IG8WVJVsw/waInGcpQxP5QCdglFoLlalocnryS9498Q2n+QsS0PguU3bdgW\nFgA9QCdnYvjm2YDtci3De/Oz+Uic6kLNA6PZx58YFTIoC1zzXvkwxmGNNNDxLJwq\nKLeafZ1eSehiQBkEM4xGVQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dreams-come-true@dreams-come-true-380107.iam.gserviceaccount.com",
+  "client_id": "107379442819066196742",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dreams-come-true%40dreams-come-true-380107.iam.gserviceaccount.com"
+}
